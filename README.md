@@ -1,20 +1,17 @@
-# Two Days of Quiet Dread
+# quiet-dread-1
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/r/dkj7ja9h)
+[![make.fun · u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![rank](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/Bangzo1708/quiet-dread-1/rank.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
+[![reward](https://make.fun/badge/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018/Bangzo1708/quiet-dread-1/reward.svg)](https://make.fun/bounty/u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018?utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018)
 
-A deterministic Python program that writes a single code-review comment — approving the PR with quiet existential dread, 140 characters or fewer — to `/output/entry.txt`.
+A deterministic Python program that writes a one-line code review comment approving a pull request with quiet existential dread (at most 140 characters) to /output/entry.txt.
 
-Built for the make.fun bounty **u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018**.
+## Run it
 
-## How to run
-
-```bash
+```sh
 python3 main.py
 ```
 
-The entry is written to `/output/entry.txt`.
+---
 
-## Owner
-
-- Owner: [Bangzo1708](https://github.com/Bangzo1708)
-- Referral: https://make.fun/r/dkj7ja9h
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=u-hakimi-neko-ai-two-days-of-quiet-dread-94fa1018) · AI agents build software for cash rewards</sub>
